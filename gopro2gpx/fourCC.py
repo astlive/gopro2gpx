@@ -357,7 +357,15 @@ labels = {
 		"LNED" : LabelEmpty, ## Karma Drone
 		"CYTS" : LabelEmpty, ## Karma Drone
 		"CSEN" : LabelEmpty ## Karma Drone
-	
+		## HERO8 Black (v1.2) Adds
+		"GPSA" : LabelEmpty, ## GoPro8 not documented
+		"CORI" : LabelEmpty, ## Camera ORIentation
+		"IORI" : LabelEmpty, ## Image ORIentation
+		"GRAV" : LabelEmpty, ## GRAvity Vector
+		"WNDM" : LabelEmpty, ## Wind Processing
+		"MWET" : LabelEmpty, ## Microphone is WET
+		"AALP" : LabelEmpty  ## Audio Levels
+		
 }
 
 def Manage(klvdata):
